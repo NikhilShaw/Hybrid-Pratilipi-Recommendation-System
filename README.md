@@ -1,2 +1,26 @@
 # Hybrid-Pratilipi-Recommendation-System
-Assignment for data scientist
+
+Different approaches of recommending Pratilipis. <br />
+Combination of user-based collabarative filtering, content-based collabarative filtering and most popular Pratilipis. <br />
+
+Installation <br />
+````
+$ cd.. content_based_recommendation_system
+$ pip install -r requirement.txt
+````
+
+Running instructions <br />
+1. To run content based recommendation system <br />
+````
+$ cd.. content_based_recommendation_system
+$ python main.py
+````
+
+2. To run collabarative filtering based recommendation system <br />
+````
+$ cd collabarative_based_recommendation_system
+$ python main.py 
+````
+
+Question and answers can be found in "Question and Answers.docx"
+
