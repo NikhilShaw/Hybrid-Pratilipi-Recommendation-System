@@ -26,7 +26,7 @@ $ python main.py
 
 Config: <br />
 ````
-Both content_based_recommendation_system and collaborative_filtering_based_recommendation have config variable which can limit the train and test data
+Both content_based_recommendation_system and collaborative_filtering_based_recommendation have configurable variable which can limit the train and test data
 ````
 
 Question and answers can be found in "Question and Answers.docx"
