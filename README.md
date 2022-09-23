@@ -23,6 +23,7 @@ Place metadata.csv and user-interactions,csv in collaborative_filtering_based_re
 $ cd collaborative_filtering_based_recommendation
 $ python main.py 
 ````
+3. To run data_exploration.ipynb use Jupyter notebook or other tool which supports ipynb file<br />
 
 Config: <br />
 ````
