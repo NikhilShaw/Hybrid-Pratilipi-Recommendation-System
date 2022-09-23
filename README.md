@@ -12,12 +12,14 @@ $ pip install -r requirement.txt
 Running instructions <br />
 1. To run content based recommendation system <br />
 ````
+Place metadata.csv and user-interactions,csv in content_based_recommendation_system/data folder
 $ cd.. content_based_recommendation_system
 $ python main.py
 ````
 
 2. To run collabarative filtering based recommendation system <br />
 ````
+Place metadata.csv and user-interactions,csv in collabarative_based_recommendation_system/data folder
 $ cd collabarative_based_recommendation_system
 $ python main.py 
 ````
